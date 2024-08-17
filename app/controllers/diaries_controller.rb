@@ -5,7 +5,6 @@ class DiariesController < ApplicationController
   def index
 
     @diaries = Diary.all
-
     yousosuu = @diaries.size
 
     for number in 1..yousosuu do
