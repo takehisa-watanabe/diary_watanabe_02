@@ -3,7 +3,8 @@ $ git clone https://github.com/takehisa-watanabe/diary_watanabe_02.git<br>
 $ cd diary_watanabe_02<br>
 $ rails s
 
-
+<br>
+scaffoldでdiaryモデルとpersonモデルを作成<br>
 ・日記の登録<br>
 ・著書の登録<br>
 ・日記に著者を持たせる<br>
